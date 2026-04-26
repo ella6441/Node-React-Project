@@ -229,7 +229,6 @@ npm start
 ## פותח על ידי
 
 **סארי** — מפתחת Full Stack  
-ella0504116441@gmail.com  
 [github.com/sari1108](https://github.com/sari1108)
 
 ---
