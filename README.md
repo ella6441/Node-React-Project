@@ -228,8 +228,8 @@ npm start
 
 ## פותח על ידי
 
-**סארי** — מפתחת Full Stack  
-[github.com/sari1108](https://github.com/sari1108)
+**אלה** — מפתחת Full Stack  
+[github.com/ella6441](https://github.com/ella6441)
 
 ---
 
